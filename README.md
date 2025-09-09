@@ -5,10 +5,13 @@
 
 ---
 
-## 🏆 Recent Achievement: The Africa Hack Winner
+## 🏆 Recent Achievement: 
+### The Africa Hack Winner
 
 <div align="center">
+<a href="https://devpost.com/software/verdger-ai">
   <img src="https://github.com/user-attachments/assets/8946c9b1-0963-4b76-ae91-18490581b407" alt="The Africa Hack - AI Trading Agents Hackathon Winner" width="100%"/>
+  </a>
 </div>
 
 **🎯 Project Highlight:** AI Trading Agents System
@@ -19,9 +22,9 @@
 
 ---
 
-## 💫 About Me
+##  About Me
 
-I'm a passionate Full Stack Software Engineer with a proven track record of building scalable applications and winning competitive hackathons. My expertise spans from web development to AI-powered financial systems, with a focus on creating solutions that make a real-world impact.
+I'm a passionate Full Stack Software Engineer with a proven track record of building scalable applications. My expertise spans from web development, to automated systems, to AI-powered financial systems, with a focus on creating solutions that make a real-world impact.
 
 **🌍 Location:** Lagos, Nigeria  
 **🎯 Specialization:** Full Stack Development, AI/ML Integration, Trading Systems  
@@ -40,7 +43,7 @@ I'm a passionate Full Stack Software Engineer with a proven track record of buil
 ### **Frontend & Backend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white)
 
 ### **Database & Infrastructure**
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
